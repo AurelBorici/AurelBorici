@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing backend microservices with .NET
 - 🌱 I’m currently learning angular to extend my web developing knowledge
 - 💞️ I’m looking to collaborate on .NET projects
-- 📫 How to reach me => aurelborici20@hmail.com
+- 📫 How to reach me => aurelborici20@gmail.com
 
 <!---
 AurelBorici/AurelBorici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
